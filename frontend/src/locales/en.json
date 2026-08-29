@@ -1,0 +1,444 @@
+{
+  "appName": "TalentFlow AI",
+  "nav": {
+    "about": "About",
+    "candidates": "Candidates",
+    "employers": "Employers",
+    "howItWorks": "How it works",
+    "faq": "FAQ",
+    "login": "Log in",
+    "getStarted": "Get started"
+  },
+  "hero": {
+    "eyebrow": "Modern hiring starts here",
+    "headline": "Interview conversations, upgraded with AI.",
+    "subheadline": "Create fair, structured interviews that help candidates showcase their strengths and teams hire with more confidence.",
+    "candidate": "Start interview",
+    "employer": "I need to hire",
+    "badge": "Structured and fair assessment",
+    "localised": "Swahili and English available"
+  },
+  "about": {
+    "eyebrow": "Why it matters",
+    "title": "Who we are",
+    "heading": "More clarity for candidates. Better decisions for teams.",
+    "description": "A fair, human-first interview platform built for modern hiring teams.",
+    "body": "Our platform helps organizations run consistent interviews at scale without losing the human side of hiring. Candidates get a guided experience, and employers get clear insight and actionable feedback.",
+    "statLabel": "Candidate experience",
+    "statCopy": "Interviews built for clarity, confidence, and support.",
+    "features": [
+      "Structured interview flow",
+      "Clear candidate feedback",
+      "Role-based evaluation",
+      "Scalable hiring process"
+    ]
+  },
+  "paths": {
+    "title": "Choose your path",
+    "description": "Start with the experience that matches your goals.",
+    "candidateTitle": "Take the interview",
+    "candidateDescription": "Join a guided AI interview and get quick, actionable feedback on your performance.",
+    "employerTitle": "Create an interview session",
+    "employerDescription": "Design hiring sessions, manage roles, and review candidate performance with clarity.",
+    "continue": "Continue"
+  },
+  "welcome": {
+    "eyebrow": "Welcome",
+    "title": "Choose your path",
+    "candidateTitle": "Take the interview",
+    "candidateDescription": "Register as a candidate, upload your documents, and complete your AI interview.",
+    "employerTitle": "Create an interview session",
+    "employerDescription": "Create a new interview session, manage roles, and review candidate performance."
+  },
+  "auth": {
+    "title": "Welcome back",
+    "candidate": "Candidate",
+    "company": "Company",
+    "email": "Email",
+    "password": "Password",
+    "continue": "Continue",
+    "login": "Log in"
+  },
+  "forms": {
+    "step": "Step",
+    "of": "of",
+    "back": "Back",
+    "continue": "Continue",
+    "createAccount": "Create account",
+    "createProfile": "Create your profile",
+    "registerCompany": "Register your company",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "education": "Education level",
+    "profession": "Profession / job title",
+    "institution": "Institution attended",
+    "graduationYear": "Graduation year",
+    "skills": "Skills",
+    "sector": "Work sector",
+    "experienceYears": "Years of experience",
+    "companyName": "Company name",
+    "companyEmail": "Company email",
+    "adminName": "Admin / company rep full name",
+    "personalEmail": "Personal email",
+    "plan": "Plan",
+    "role": "Role",
+    "difficulty": "Difficulty",
+    "duration": "Duration (minutes)",
+    "topics": "Topics",
+    "cancel": "Cancel",
+    "publish": "Publish",
+    "steps": {
+      "profile": "Profile",
+      "documents": "Documents",
+      "verification": "Verification",
+      "session": "Session",
+      "results": "Results"
+    },
+    "defaults": {
+      "candidateFullName": "Aisha Mtega",
+      "candidateEmail": "aisha@example.com",
+      "candidatePhone": "+255 712 123 456",
+      "candidatePassword": "secure123",
+      "candidateEducation": "Bachelor's degree",
+      "candidateProfession": "Product Designer",
+      "candidateInstitution": "University of Dar es Salaam",
+      "candidateGraduationYear": "2022",
+      "candidateSkills": "UX, research, analytics",
+      "candidateSector": "Technology",
+      "candidateExperienceYears": "3",
+      "companyName": "Northstar Labs",
+      "companyEmail": "hello@northstar.co.tz",
+      "adminName": "Grace Mushi",
+      "personalEmail": "grace@northstar.co.tz",
+      "companyPlan": "Growth",
+      "role": "Product Designer",
+      "difficulty": "Medium",
+      "duration": "45",
+      "topics": "Communication, stakeholder management, problem solving"
+    },
+    "planOptions": {
+      "starter": "Starter",
+      "growth": "Growth",
+      "enterprise": "Enterprise"
+    },
+    "difficultyOptions": {
+      "mid": "Medium",
+      "senior": "Senior",
+      "lead": "Lead"
+    },
+    "cameraOptions": {
+      "integrated": "Integrated camera",
+      "usb": "USB webcam"
+    },
+    "microphoneOptions": {
+      "default": "Default microphone",
+      "usb": "USB headset"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, Aisha",
+    "startInterview": "Start interview",
+    "upcoming": "Upcoming sessions",
+    "documentStatus": "Document status",
+    "verified": "Verified",
+    "profileCompleteness": "Profile completeness",
+    "documentsVerified": "Documents verified",
+    "upcomingInterview": {
+      "title": "Upcoming interview",
+      "value": "Senior Product Designer",
+      "meta": "Monday, 10:00 AM ? Zoom"
+    },
+    "profileCompletenessCard": {
+      "title": "Profile completeness",
+      "value": "82%",
+      "meta": "3 items left"
+    },
+    "documentsVerifiedCard": {
+      "title": "Documents verified",
+      "value": "4 / 5",
+      "meta": "CV and degree uploaded"
+    },
+    "sessionList": [
+      {
+        "name": "Senior Product Designer",
+        "date": "Tuesday, 10:00 AM",
+        "status": "Verified"
+      },
+      {
+        "name": "Data Analyst Screening",
+        "date": "Thursday, 9:30 AM",
+        "status": "Pending"
+      }
+    ],
+    "documentList": [
+      "O-Level certificate",
+      "A-Level certificate",
+      "CV"
+    ],
+    "status": {
+      "confirmed": "Verified",
+      "pending": "Pending"
+    }
+  },
+  "interview": {
+    "title": "Interview",
+    "liveSession": "Live AI interview session",
+    "recording": "Recording",
+    "end": "End interview",
+    "beforeYouBegin": "Before you begin",
+    "setup": "Setup",
+    "camera": "Camera",
+    "microphone": "Microphone",
+    "start": "Start interview",
+    "question": "Question",
+    "of": "of",
+    "controls": "Controls",
+    "live": "Live",
+    "mute": "Mute microphone",
+    "unmute": "Unmute microphone",
+    "hideCamera": "Hide camera",
+    "showCamera": "Show camera",
+    "hideCaptions": "Hide captions",
+    "showCaptions": "Show captions",
+    "next": "Next",
+    "notes": "Session notes",
+    "aiInterviewer": "AI interviewer",
+    "consent": "Recording consent remains active.",
+    "autosave": "Autosave is enabled.",
+    "reconnect": "You can reconnect without losing progress.",
+    "checkCameraMic": "Check your camera and microphone.",
+    "quietEnvironment": "Make sure your environment is quiet and well-lit.",
+    "questionPrompt": "Tell me about a time you worked across a cross-functional team and what you learned.",
+    "captionText": "Live captions: ?I focused on customer experience and clear communication.?",
+    "integratedCamera": "Integrated camera",
+    "usbWebcam": "USB webcam",
+    "defaultMic": "Default microphone",
+    "usbHeadset": "USB headset",
+    "liveStatus": "Live",
+    "questionCount": "Question {{current}} of {{total}}"
+  },
+  "results": {
+    "title": "Results",
+    "headline": "Your interview feedback",
+    "strongFit": "Strong fit",
+    "scoreLabel": "score",
+    "summary": "Your communication and clarity were above the benchmark.",
+    "transcript": {
+      "aiInterviewer": "AI interviewer",
+      "candidate": "Candidate",
+      "aiQuestion": "Tell me about a time you worked across a cross-functional team and what you learned.",
+      "candidateAnswer": "I led a cross-functional review and focused on the customer experience."
+    }
+  },
+  "company": {
+    "heading": "Company dashboard",
+    "overview": "Hiring overview",
+    "createSession": "Create session",
+    "review": "Candidates to review",
+    "plans": "Plans",
+    "sessionTitle": "Create session",
+    "sessionHeadline": "Build a new interview",
+    "role": "Role",
+    "difficulty": "Difficulty",
+    "duration": "Duration (minutes)",
+    "topics": "Topics",
+    "cancel": "Cancel",
+    "publish": "Publish",
+    "openRoles": {
+      "title": "Open roles",
+      "value": "12",
+      "meta": "Across product, data, and operations"
+    },
+    "candidatesReviewed": {
+      "title": "Candidates reviewed",
+      "value": "48",
+      "meta": "21 shortlisted"
+    },
+    "avgScore": {
+      "title": "Average score",
+      "value": "88%",
+      "meta": "Strength: communication"
+    },
+    "scoreLabel": "Score: {{score}}%",
+    "planList": [
+      {
+        "name": "Standard",
+        "price": "$0",
+        "detail": "For small teams getting started",
+        "tag": "Starter"
+      },
+      {
+        "name": "Growth",
+        "price": "$50",
+        "detail": "For fast-scaling teams",
+        "tag": "Popular"
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "detail": "For full-scale hiring operations",
+        "tag": "Business"
+      }
+    ]
+  },
+  "faq": {
+    "questions": [
+      "How does the AI interview system work?",
+      "Can I take interviews on my phone?",
+      "Do you support company onboarding?",
+      "What happens after the interview?"
+    ],
+    "answers": [
+      "Our interview system standardizes candidate experience, keeps evaluation fair, and helps hiring teams assess real evidence quickly and consistently.",
+      "Yes. Under the interview controls, you can use your mobile device or desktop without losing the quality of the interview experience.",
+      "Yes. We support company onboarding, role setup, and candidate evaluation workflows with clear visibility.",
+      "After interviews, the system provides structured feedback, scoring, and recommendations for the next step."
+    ],
+    "title": "Frequently asked questions",
+    "description": "Clear answers before your first interview starts."
+  },
+  "footer": {
+    "brandTagline": "AI interviews for fair hiring and stronger teams.",
+    "about": "About",
+    "faq": "FAQ",
+    "login": "Log in",
+    "choosePath": "Choose your path",
+    "stayUpdated": "Stay updated",
+    "emailAddress": "Email address",
+    "subscribe": "Subscribe",
+    "validEmail": "Please enter a valid email address.",
+    "success": "You are subscribed. We will be in touch soon."
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "next": "Next",
+    "save": "Save",
+    "back": "Back",
+    "language": "Language",
+    "subscribe": "Subscribe",
+    "emailAddress": "Email address",
+    "stayUpdated": "Stay updated",
+    "continue": "Continue",
+    "login": "Log in",
+    "candidate": "Candidate",
+    "employer": "Employer",
+    "live": "Live",
+    "aiReview": "AI review",
+    "interviewAudio": "Interview audio",
+    "question": "Question",
+    "focus": "Focus",
+    "communication": "Communication",
+    "review": "Review",
+    "readyTitle": "Ready when your team is",
+    "readyDescription": "From first screening to final shortlist, the experience stays structured and clear.",
+    "forCandidates": "For candidates",
+    "startInterviewCTA": "Start your interview",
+    "startNow": "Start now",
+    "forEmployers": "For employers",
+    "viewDashboard": "Open your dashboard",
+    "viewDashboardLink": "View dashboard",
+    "faqTitle": "Frequently asked questions",
+    "faqDescription": "Clear answers before your first interview starts.",
+    "choosePath": "Choose your path",
+    "invalidEmail": "Please enter a valid email address.",
+    "subscribed": "You are subscribed. We will be in touch soon.",
+    "builtForEveryField": "Built for every field",
+    "fieldHeadline": "Interviews that adapt to the job, not the other way around.",
+    "error": "Something went wrong. Please try again.",
+    "loading": "Loading..."
+  },
+  "status": {
+    "confirmed": "Verified",
+    "pending": "Pending"
+  },
+  "industries": {
+    "technology": {
+      "name": "Technology",
+      "description": "Assess technical decision-making, collaborative problem solving, and product thinking with interview patterns designed for engineering and product teams."
+    },
+    "finance": {
+      "name": "Finance",
+      "description": "Evaluate risk awareness, judgment, and customer communication through scenarios designed for banking, fintech, and operations teams."
+    },
+    "healthcare": {
+      "name": "Healthcare",
+      "description": "Measure empathy, clarity, and quality of judgment in workflows tailored for clinical, administrative, and support operations."
+    },
+    "sales": {
+      "name": "Sales",
+      "description": "Test discovery, influence, and storytelling with realistic customer conversations and measurable outcomes."
+    },
+    "customerService": {
+      "name": "Customer Service",
+      "description": "Focus on stakeholder empathy, conflict resolution, and communication quality to identify candidates who can represent your brand with confidence."
+    }
+  },
+  "plans": {
+    "starter": "Starter",
+    "growth": "Growth",
+    "enterprise": "Enterprise"
+  },
+  "wizard": {
+    "selectPlaceholder": "Select...",
+    "steps": {
+      "profile": "Profile",
+      "education": "Education & Skills",
+      "documents": "Documents",
+      "companyProfile": "Company Profile",
+      "personalProfile": "Personal Profile",
+      "subscription": "Subscription"
+    },
+    "verify": {
+      "title": "Verify your email",
+      "instructions": "We sent a 6-digit code to {{email}}",
+      "codeIncorrect": "That code isn't right. Try again.",
+      "codeExpired": "This code has expired. Request a new one.",
+      "tooManyAttempts": "Too many attempts. Request a new code.",
+      "resend": "Resend code",
+      "resendIn": "Resend in {{seconds}}s"
+    },
+    "education": {
+      "title": "Education & Skills",
+      "specialization": "Specialization",
+      "skillsCount": "{{count}}/5 selected"
+    },
+    "documents": {
+      "title": "Upload your documents",
+      "instructions": "Upload your certificates and credentials (PDF, JPG, or PNG)",
+      "dragDrop": "Drag and drop files here, or click to browse",
+      "uploading": "Uploading...",
+      "remove": "Remove",
+      "pendingBadge": "Verification pending"
+    },
+    "interviews": {
+      "title": "Interviews matched for you",
+      "matchedOn": "Matched to your profession and education",
+      "start": "Start interview",
+      "finish": "Finish interview",
+      "noResults": "No matching interviews right now. Check back later.",
+      "sessionComplete": "Interview complete",
+      "continuePrompt": "Would you like to continue with another interview?",
+      "continueBtn": "Continue with more",
+      "stopBtn": "No, I'm done"
+    },
+    "company": {
+      "profileTitle": "Company profile"
+    },
+    "personal": {
+      "title": "Your personal profile",
+      "confirmPassword": "Confirm password",
+      "passwordMismatch": "Passwords don't match",
+      "weakPassword": "Password needs at least 8 characters and one number",
+      "emailMustDiffer": "Personal email must differ from company email"
+    },
+    "subscription": {
+      "title": "Choose a subscription plan",
+      "monthly": "Monthly",
+      "quarterly": "Every 3 months",
+      "annual": "Annual",
+      "confirm": "Confirm subscription"
+    }
+  }
+}

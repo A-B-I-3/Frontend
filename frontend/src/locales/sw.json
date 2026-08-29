@@ -1,0 +1,444 @@
+{
+  "appName": "TalentFlow AI",
+  "nav": {
+    "about": "Kuhusu",
+    "candidates": "Wagombea",
+    "employers": "Waajiri",
+    "howItWorks": "Inafanyaje kazi",
+    "faq": "Maswali",
+    "login": "Ingia",
+    "getStarted": "Anza"
+  },
+  "hero": {
+    "eyebrow": "Uajiri wa kisasa huanza hapa",
+    "headline": "Mawasiliano ya mahojiano, yameboreshwa na AI.",
+    "subheadline": "Unda mahojiano ya haki na yaliyopangwa ambayo yamsaidie mgombea kuonyesha uwezo wake na timu kuajiri kwa ujasiri zaidi.",
+    "candidate": "Anza mahojiano",
+    "employer": "Ninahitaji kuajiri",
+    "badge": "Tathmini iliyopangwa na ya haki",
+    "localised": "Kiswahili na Kiingereza vinapatikana"
+  },
+  "about": {
+    "eyebrow": "Kwa nini ni muhimu",
+    "title": "Tunakotoka",
+    "heading": "Uwazi zaidi kwa wagombea. Maamuzi bora kwa timu.",
+    "description": "Jukwaa la mahojiano la kwanza kwa binadamu lililoundwa kwa timu za kisasa za uajiri.",
+    "body": "Jukwaa letu husaidia mashirika kufanya mahojiano yanayofanana kwa kiwango kikubwa bila kupoteza ubinafsi wa uajiri. Wagombea hupata uzoefu ulioelekezwa, na waajiri hupata maarifa ya wazi na maoni yanayoweza kutumika.",
+    "statLabel": "Uzoefu wa mgombea",
+    "statCopy": "Mahojiano kwa uwazi, ujasiri, na usaidizi.",
+    "features": [
+      "Mfumo wa mahojiano uliopangwa",
+      "Maoni wazi kwa wagombea",
+      "Tathmini kulingana na kazi",
+      "Mchakato wa uajiri unaoweza kukua"
+    ]
+  },
+  "paths": {
+    "title": "Chagua njia yako",
+    "description": "Anza na uzoefu unaofaa malengo yako.",
+    "candidateTitle": "Fanya mahojiano",
+    "candidateDescription": "Jiunge na mahojiano ya AI yaliyopangwa na upate maoni ya haraka na yanayoweza kutumika.",
+    "employerTitle": "Unda kikao cha mahojiano",
+    "employerDescription": "Unda vipindi vya kuajiri, udhibiti majukumu, na ukague utendaji wa wagombea kwa uwazi.",
+    "continue": "Endelea"
+  },
+  "welcome": {
+    "eyebrow": "Karibu",
+    "title": "Chagua njia yako",
+    "candidateTitle": "Fanya mahojiano",
+    "candidateDescription": "Jiandikishe kama mgombea, pakia nyaraka zako, na ukamilishe mahojiano yako ya AI.",
+    "employerTitle": "Unda kikao cha mahojiano",
+    "employerDescription": "Unda kikao kipya cha mahojiano, usimamie majukumu, na ukague utendaji wa wagombea."
+  },
+  "auth": {
+    "title": "Karibu tena",
+    "candidate": "Mgombea",
+    "company": "Kampuni",
+    "email": "Barua pepe",
+    "password": "Neno la siri",
+    "continue": "Endelea",
+    "login": "Ingia"
+  },
+  "forms": {
+    "step": "Hatua",
+    "of": "ya",
+    "back": "Rudi",
+    "continue": "Endelea",
+    "createAccount": "Unda akaunti",
+    "createProfile": "Unda wasifu wako",
+    "registerCompany": "Sajili kampuni yako",
+    "fullName": "Jina kamili",
+    "email": "Barua pepe",
+    "phone": "Simu",
+    "password": "Neno la siri",
+    "education": "Kiwango cha elimu",
+    "profession": "Kazi / cheo",
+    "institution": "Taasisi iliyohudhuria",
+    "graduationYear": "Mwaka wa kuhitimu",
+    "skills": "Ujuzi",
+    "sector": "Sekta ya kazi",
+    "experienceYears": "Miaka ya uzoefu",
+    "companyName": "Jina la kampuni",
+    "companyEmail": "Barua pepe ya kampuni",
+    "adminName": "Jina kamili la msimamizi / mwakilishi wa kampuni",
+    "personalEmail": "Barua pepe ya binafsi",
+    "plan": "Mpango",
+    "role": "Jukumu",
+    "difficulty": "Ugumu",
+    "duration": "Muda (dakika)",
+    "topics": "Mada",
+    "cancel": "Ghairi",
+    "publish": "Chapisha",
+    "steps": {
+      "profile": "Wasifu",
+      "documents": "Nyaraka",
+      "verification": "Uthibitishaji",
+      "session": "Kipindi",
+      "results": "Matokeo"
+    },
+    "defaults": {
+      "candidateFullName": "Aisha Mtega",
+      "candidateEmail": "aisha@example.com",
+      "candidatePhone": "+255 712 123 456",
+      "candidatePassword": "secure123",
+      "candidateEducation": "Shahada",
+      "candidateProfession": "Mbunifu wa Bidhaa",
+      "candidateInstitution": "Chuo Kikuu cha Dar es Salaam",
+      "candidateGraduationYear": "2022",
+      "candidateSkills": "UX, utafiti, analytics",
+      "candidateSector": "Teknolojia",
+      "candidateExperienceYears": "3",
+      "companyName": "Northstar Labs",
+      "companyEmail": "hello@northstar.co.tz",
+      "adminName": "Grace Mushi",
+      "personalEmail": "grace@northstar.co.tz",
+      "companyPlan": "Kukuza",
+      "role": "Mbunifu wa Bidhaa",
+      "difficulty": "Kati",
+      "duration": "45",
+      "topics": "Mawasiliano, usimamizi wa wadau, kutatua matatizo"
+    },
+    "planOptions": {
+      "starter": "Anza",
+      "growth": "Kukuza",
+      "enterprise": "Biashara"
+    },
+    "difficultyOptions": {
+      "mid": "Kati",
+      "senior": "Mwandamizi",
+      "lead": "Kiongozi"
+    },
+    "cameraOptions": {
+      "integrated": "Kamera iliyojengewa",
+      "usb": "Webcam ya USB"
+    },
+    "microphoneOptions": {
+      "default": "Mikrofoni ya kawaida",
+      "usb": "Kichwa cha USB"
+    }
+  },
+  "dashboard": {
+    "welcome": "Karibu tena, Aisha",
+    "startInterview": "Anza mahojiano",
+    "upcoming": "Mikutano inayokuja",
+    "documentStatus": "Hali ya nyaraka",
+    "verified": "Imethibitishwa",
+    "profileCompleteness": "Ukamilifu wa wasifu",
+    "documentsVerified": "Nyaraka zilizothibitishwa",
+    "upcomingInterview": {
+      "title": "Mahojiano inayokuja",
+      "value": "Mbunifu Mwandamizi wa Bidhaa",
+      "meta": "Jumatatu, 10:00 AM ? Zoom"
+    },
+    "profileCompletenessCard": {
+      "title": "Ukamilifu wa wasifu",
+      "value": "82%",
+      "meta": "Vipengee 3 vimebaki"
+    },
+    "documentsVerifiedCard": {
+      "title": "Nyaraka zilizothibitishwa",
+      "value": "4 / 5",
+      "meta": "CV na shahada zimepakiwa"
+    },
+    "sessionList": [
+      {
+        "name": "Mbunifu Mwandamizi wa Bidhaa",
+        "date": "Jumanne, 10:00 AM",
+        "status": "Imethibitishwa"
+      },
+      {
+        "name": "Uchunguzi wa Mchambuzi wa Data",
+        "date": "Alhamisi, 9:30 AM",
+        "status": "Inasubiri"
+      }
+    ],
+    "documentList": [
+      "Cheti cha O-Level",
+      "Cheti cha A-Level",
+      "CV"
+    ],
+    "status": {
+      "confirmed": "Imethibitishwa",
+      "pending": "Inasubiri"
+    }
+  },
+  "interview": {
+    "title": "Mojawapo",
+    "liveSession": "Kipindi cha mahojiano cha AI kilichotumika",
+    "recording": "Inarekodi",
+    "end": "Maliza mahojiano",
+    "beforeYouBegin": "Kabla ya kuanza",
+    "setup": "Mipangilio",
+    "camera": "Kamera",
+    "microphone": "Mikrofoni",
+    "start": "Anza mahojiano",
+    "question": "Swali",
+    "of": "ya",
+    "controls": "Udhibiti",
+    "live": "Moja kwa moja",
+    "mute": "Zima mikrofoni",
+    "unmute": "Washa mikrofoni",
+    "hideCamera": "Ficha kamera",
+    "showCamera": "Onyesha kamera",
+    "hideCaptions": "Ficha manukuu",
+    "showCaptions": "Onyesha manukuu",
+    "next": "Ifuatayo",
+    "notes": "Maelezo ya kipindi",
+    "aiInterviewer": "Mhojaji wa AI",
+    "consent": "Ruhusa ya kurekodi inaendelea.",
+    "autosave": "Uhifadhi wa kiotomatiki umewashwa.",
+    "reconnect": "Unaweza kuungana tena bila kupoteza maendeleo ya sasa.",
+    "checkCameraMic": "Kagua kamera na mikrofoni yako.",
+    "quietEnvironment": "Hakikisha mazingira yako ni tulivu na yameangaza vizuri.",
+    "questionPrompt": "Nijulishe kuhusu wakati ulipokutana na mkataba wa timu na ulipata nini ulijifunza.",
+    "captionText": "Manukuu ya moja kwa moja: ?Nililenga uzoefu wa mteja na kuweka mawasiliano wazi.?",
+    "integratedCamera": "Kamera iliyojengewa",
+    "usbWebcam": "Webcam ya USB",
+    "defaultMic": "Mikrofoni ya kawaida",
+    "usbHeadset": "Kichwa cha USB",
+    "liveStatus": "Moja kwa moja",
+    "questionCount": "Swali {{current}} ya {{total}}"
+  },
+  "results": {
+    "title": "Matokeo",
+    "headline": "Maoni yako ya mahojiano",
+    "strongFit": "Ulinganifu mzuri",
+    "scoreLabel": "alama",
+    "summary": "Mawasiliano yako na uwazi ulikuwa juu ya kiwango cha kawaida.",
+    "transcript": {
+      "aiInterviewer": "Mhojaji wa AI",
+      "candidate": "Mgombea",
+      "aiQuestion": "Nijulishe kuhusu wakati ulipokutana na mkataba wa timu na ulipata nini ulijifunza.",
+      "candidateAnswer": "Niliendesha ukaguzi wa mtandao wa washirika... na nililenga uzoefu wa mteja."
+    }
+  },
+  "company": {
+    "heading": "Dashibodi ya kampuni",
+    "overview": "Muhtasari wa uajiri",
+    "createSession": "Unda kipindi",
+    "review": "Wagombea wa kukaguliwa",
+    "plans": "Mipango",
+    "sessionTitle": "Unda kipindi",
+    "sessionHeadline": "Unda mahojiano mapya",
+    "role": "Jukumu",
+    "difficulty": "Ugumu",
+    "duration": "Muda (dakika)",
+    "topics": "Mada",
+    "cancel": "Ghairi",
+    "publish": "Chapisha",
+    "openRoles": {
+      "title": "Mawakala ya wazi",
+      "value": "12",
+      "meta": "Kwenye bidhaa, data, na shughuli"
+    },
+    "candidatesReviewed": {
+      "title": "Wagombea walioangaliwa",
+      "value": "48",
+      "meta": "21 wamechaguliwa"
+    },
+    "avgScore": {
+      "title": "Kiwango cha wastani",
+      "value": "88%",
+      "meta": "Nguvu: mawasiliano"
+    },
+    "scoreLabel": "Alama: {{score}}%",
+    "planList": [
+      {
+        "name": "Kawaida",
+        "price": "TZS 0",
+        "detail": "Biashara ndogo zinazoanza",
+        "tag": "Anza"
+      },
+      {
+        "name": "Kitaalamu",
+        "price": "TZS 50,000",
+        "detail": "Biashara zinazokua haraka",
+        "tag": "Maarufu"
+      },
+      {
+        "name": "Kampuni",
+        "price": "Custom",
+        "detail": "Suluhisho kamili kwa mashirika",
+        "tag": "Biashara"
+      }
+    ]
+  },
+  "faq": {
+    "questions": [
+      "Mifumo ya mahojiano ya AI inafanya kazi vipi?",
+      "Naweza kutumia simu yangu kwa mahojiano?",
+      "Je, mnasaidia kuandikisha kampuni?",
+      "Nini hufanyika baada ya mahojiano?"
+    ],
+    "answers": [
+      "Mfumo wa mahojiano wetu huweka uzoefu wa kila mgombea sawa, wa haki, na waelewekevu huku ukisaidia timu ya uajiri kukagua ushahidi wa kweli na kufanya maamuzi ya haraka.",
+      "Ndiyo. Chini ya sehemu za mahojiano, unaweza kutumia simu yako ya mkononi au kompyuta ya kibao bila kupoteza ubora wa mahojiano.",
+      "Ndiyo. Tunaweka vipengele vya onboarding ya kampuni, vijiti vya kazi, na upimaji wa utendakazi wa wagombea kwa uwazi.",
+      "Baada ya mahojiano, mfumo unatoa mapendekezo ya tathmini, alama, na maoni yanayoweza kutumika kwa hatua inayofuata."
+    ],
+    "title": "Maswali ya mara kwa mara",
+    "description": "Majibu ya wazi kabla ya mahojiano ya kwanza kuanza."
+  },
+  "footer": {
+    "brandTagline": "Mahojiano ya AI kwa uajiri wa haki na timu zenye nguvu.",
+    "about": "Kuhusu",
+    "faq": "Maswali",
+    "login": "Ingia",
+    "choosePath": "Chagua njia",
+    "stayUpdated": "Baki upate sasisho",
+    "emailAddress": "Anwani ya barua pepe",
+    "subscribe": "Jiandikishe",
+    "validEmail": "Tafadhali ingiza anwani ya barua pepe sahihi.",
+    "success": "Umejisajili. Tutawasiliana nawe hivi karibuni."
+  },
+  "common": {
+    "learnMore": "Jifunze zaidi",
+    "next": "Ifuatayo",
+    "save": "Hifadhi",
+    "back": "Rudi",
+    "language": "Lugha",
+    "subscribe": "Jiandikishe",
+    "emailAddress": "Anwani ya barua pepe",
+    "stayUpdated": "Baki upate sasisho",
+    "continue": "Endelea",
+    "login": "Ingia",
+    "candidate": "Mgombea",
+    "employer": "Mtaalamu wa ajira",
+    "live": "Moja kwa moja",
+    "aiReview": "Ukaguzi wa AI",
+    "interviewAudio": "Sauti ya mahojiano",
+    "question": "Swali",
+    "focus": "Lengo",
+    "communication": "Mawasiliano",
+    "review": "Kagua",
+    "readyTitle": "Tayari wakati timu yako ilipo",
+    "readyDescription": "Kutoka kwa uchunguzi wa kwanza hadi orodha ya mwisho, uzoefu unabaki wa mpangilio na wa wazi.",
+    "forCandidates": "Kwa wagombea",
+    "startInterviewCTA": "Anza mahojiano yako",
+    "startNow": "Anza sasa",
+    "forEmployers": "Kwa waajiri",
+    "viewDashboard": "Fungua dashibodi yako",
+    "viewDashboardLink": "Angalia dashibodi",
+    "faqTitle": "Maswali ya mara kwa mara",
+    "faqDescription": "Majibu ya wazi kabla ya mahojiano ya kwanza kuanza.",
+    "choosePath": "Chagua njia",
+    "invalidEmail": "Tafadhali ingiza anwani ya barua pepe sahihi.",
+    "subscribed": "Umejisajili. Tutawasiliana nawe hivi karibuni.",
+    "builtForEveryField": "Imeundwa kwa kila sekta",
+    "fieldHeadline": "Mahojiano yanayobadilika kulingana na kazi, si kinyume chake.",
+    "error": "Hitilafu imetokea. Tafadhali jaribu tena.",
+    "loading": "Inapakia..."
+  },
+  "status": {
+    "confirmed": "Imethibitishwa",
+    "pending": "Inasubiri"
+  },
+  "industries": {
+    "technology": {
+      "name": "Teknolojia",
+      "description": "Panga mahojiano ya kiufundi kuhusu kutatua matatizo, mawasiliano, na uamuzi wa bidhaa ili timu ya uajiri iweze kutathmini nguvu kwa usawa katika nafasi za uhandisi na bidhaa."
+    },
+    "finance": {
+      "name": "Fedha",
+      "description": "Tathmini ufahamu wa hatari, ubora wa maamuzi, na mawasiliano kwa wateja kwa kutumia hali zilizobuniwa kwa timu za benki, fintech, na shughuli."
+    },
+    "healthcare": {
+      "name": "Afya",
+      "description": "Pima upendo, uwazi, na ufahamu wa ulinganifu kwa njia inayofaa kwa shughuli za kliniki, usimamizi, na usaidizi."
+    },
+    "sales": {
+      "name": "Uuzaji",
+      "description": "Tathmini ujuzi wa ugunduzi, ushawishi, na mazungumzo kwa kutumia hali halisi za wateja na vigezo vinavyoweza kupimika."
+    },
+    "customerService": {
+      "name": "Huduma kwa Wateja",
+      "description": "Fokusika kwenye upendo kwa wadau, utatuzi wa migogoro, na ubora wa mawasiliano ili kutambua wagombea wanaoweza kuwakilisha chapa yako kwa ujasiri."
+    }
+  },
+  "plans": {
+    "starter": "Anza",
+    "growth": "Kukuza",
+    "enterprise": "Biashara"
+  },
+  "wizard": {
+    "selectPlaceholder": "Chagua...",
+    "steps": {
+      "profile": "Wasifu",
+      "education": "Elimu na Ujuzi",
+      "documents": "Nyaraka",
+      "companyProfile": "Wasifu wa Kampuni",
+      "personalProfile": "Wasifu Binafsi",
+      "subscription": "Usajili"
+    },
+    "verify": {
+      "title": "Thibitisha barua pepe yako",
+      "instructions": "Tumetuma msimbo wa tarakimu 6 kwenye {{email}}",
+      "codeIncorrect": "Msimbo si sahihi. Jaribu tena.",
+      "codeExpired": "Msimbo umeisha muda wake. Omba msimbo mpya.",
+      "tooManyAttempts": "Umejaribu mara nyingi mno. Omba msimbo mpya.",
+      "resend": "Tuma tena msimbo",
+      "resendIn": "Tuma tena baada ya sekunde {{seconds}}"
+    },
+    "education": {
+      "title": "Elimu na Ujuzi",
+      "specialization": "Utaalamu",
+      "skillsCount": "{{count}}/5 zimechaguliwa"
+    },
+    "documents": {
+      "title": "Pakia nyaraka zako",
+      "instructions": "Pakia vyeti na sifa zako (PDF, JPG, au PNG)",
+      "dragDrop": "Buruta na uachie faili hapa, au bofya kuchagua",
+      "uploading": "Inapakia...",
+      "remove": "Ondoa",
+      "pendingBadge": "Uthibitisho unasubiriwa"
+    },
+    "interviews": {
+      "title": "Mahojiano yanayokufaa",
+      "matchedOn": "Imelingana na taaluma na elimu yako",
+      "start": "Anza mahojiano",
+      "finish": "Maliza mahojiano",
+      "noResults": "Hakuna mahojiano yanayolingana kwa sasa. Rudi tena baadaye.",
+      "sessionComplete": "Mahojiano yamekamilika",
+      "continuePrompt": "Je, ungependa kuendelea na mahojiano mengine?",
+      "continueBtn": "Endelea na mengine",
+      "stopBtn": "Hapana, nimemaliza"
+    },
+    "company": {
+      "profileTitle": "Wasifu wa kampuni"
+    },
+    "personal": {
+      "title": "Wasifu wako binafsi",
+      "confirmPassword": "Thibitisha nenosiri",
+      "passwordMismatch": "Manenosiri hayafanani",
+      "weakPassword": "Nenosiri linahitaji angalau tarakimu 8 na nambari moja",
+      "emailMustDiffer": "Barua pepe binafsi lazima itofautiane na ya kampuni"
+    },
+    "subscription": {
+      "title": "Chagua mpango wa usajili",
+      "monthly": "Kila mwezi",
+      "quarterly": "Kila miezi 3",
+      "annual": "Kila mwaka",
+      "confirm": "Thibitisha usajili"
+    }
+  }
+}
